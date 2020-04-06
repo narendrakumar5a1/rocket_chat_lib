@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.noties:markwon-html-parser-api:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6af4b749e5bd9dca8217e6468cfc925a/jetified-markwon-html-parser-api-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6af4b749e5bd9dca8217e6468cfc925a/jetified-markwon-html-parser-api-2.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.noties/markwon-html-parser-api/2.0.0/433b11a79c1d104b14a63c8c547c1c4a042b2f8d/markwon-html-parser-api-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.noties/markwon-html-parser-api/2.0.0/e9703a89611c5775d73d121c5946272c29c6746d/markwon-html-parser-api-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

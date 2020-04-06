@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="rocket_chat_lib/app" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" group="rocket_chat_lib/core" />
+      <module fileurl="file://$PROJECT_DIR$/draw/draw.iml" filepath="$PROJECT_DIR$/draw/draw.iml" group="rocket_chat_lib/draw" />
+      <module fileurl="file://$PROJECT_DIR$/emoji/emoji.iml" filepath="$PROJECT_DIR$/emoji/emoji.iml" group="rocket_chat_lib/emoji" />
+      <module fileurl="file://$PROJECT_DIR$/player/player.iml" filepath="$PROJECT_DIR$/player/player.iml" group="rocket_chat_lib/player" />
+      <module fileurl="file://$PROJECT_DIR$/rocket_chat_lib.iml" filepath="$PROJECT_DIR$/rocket_chat_lib.iml" group="rocket_chat_lib" />
+      <module fileurl="file://$PROJECT_DIR$/suggestions/suggestions.iml" filepath="$PROJECT_DIR$/suggestions/suggestions.iml" group="rocket_chat_lib/suggestions" />
+      <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" group="rocket_chat_lib/util" />
+    </modules>
+  </component>
+</project>

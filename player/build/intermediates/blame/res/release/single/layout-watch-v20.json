@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/cc052745b68132bf2b8efc6c8a7f4a4e/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/cc052745b68132bf2b8efc6c8a7f4a4e/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

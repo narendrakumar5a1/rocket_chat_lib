@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af164f394b418f60c773c16855dfc8fa/core-1.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af164f394b418f60c773c16855dfc8fa/core-1.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af164f394b418f60c773c16855dfc8fa/core-1.0.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af164f394b418f60c773c16855dfc8fa/core-1.0.1/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

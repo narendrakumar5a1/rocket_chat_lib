@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_repeat_one.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af566bf3f2284cd7f57fd099fe216896/jetified-exoplayer-ui-2.8.2/res/drawable-anydpi-v21/exo_controls_repeat_one.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_fullscreen_exit.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af566bf3f2284cd7f57fd099fe216896/jetified-exoplayer-ui-2.8.2/res/drawable-anydpi-v21/exo_controls_fullscreen_exit.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_shuffle.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af566bf3f2284cd7f57fd099fe216896/jetified-exoplayer-ui-2.8.2/res/drawable-anydpi-v21/exo_controls_shuffle.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_pause.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af566bf3f2284cd7f57fd099fe216896/jetified-exoplayer-ui-2.8.2/res/drawable-anydpi-v21/exo_icon_pause.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_fastforward.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af566bf3f2284cd7f57fd099fe216896/jetified-exoplayer-ui-2.8.2/res/drawable-anydpi-v21/exo_icon_fastforward.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_stop.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af566bf3f2284cd7f57fd099fe216896/jetified-exoplayer-ui-2.8.2/res/drawable-anydpi-v21/exo_icon_stop.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_play.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af566bf3f2284cd7f57fd099fe216896/jetified-exoplayer-ui-2.8.2/res/drawable-anydpi-v21/exo_icon_play.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_previous.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af566bf3f2284cd7f57fd099fe216896/jetified-exoplayer-ui-2.8.2/res/drawable-anydpi-v21/exo_icon_previous.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_rewind.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af566bf3f2284cd7f57fd099fe216896/jetified-exoplayer-ui-2.8.2/res/drawable-anydpi-v21/exo_icon_rewind.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_edit_mode_logo.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af566bf3f2284cd7f57fd099fe216896/jetified-exoplayer-ui-2.8.2/res/drawable-anydpi-v21/exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_repeat_all.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af566bf3f2284cd7f57fd099fe216896/jetified-exoplayer-ui-2.8.2/res/drawable-anydpi-v21/exo_controls_repeat_all.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_icon_next.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af566bf3f2284cd7f57fd099fe216896/jetified-exoplayer-ui-2.8.2/res/drawable-anydpi-v21/exo_icon_next.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_repeat_off.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af566bf3f2284cd7f57fd099fe216896/jetified-exoplayer-ui-2.8.2/res/drawable-anydpi-v21/exo_controls_repeat_off.xml"
+    },
+    {
+        "merged": "/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_fullscreen_enter.xml",
+        "source": "/home/naren/.gradle/caches/transforms-2/files-2.1/af566bf3f2284cd7f57fd099fe216896/jetified-exoplayer-ui-2.8.2/res/drawable-anydpi-v21/exo_controls_fullscreen_enter.xml"
+    }
+]

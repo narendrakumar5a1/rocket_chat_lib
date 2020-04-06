@@ -1,0 +1,25 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="chat.rocket.android.player"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/src/main/AndroidManifest.xml
+10
+11    <application>
+11-->/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/src/main/AndroidManifest.xml:5:5-10:19
+12        <activity
+12-->/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/src/main/AndroidManifest.xml:6:9-9:50
+13            android:name="chat.rocket.android.player.PlayerActivity"
+13-->/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/src/main/AndroidManifest.xml:7:13-43
+14            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize|uiMode"
+14-->/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/src/main/AndroidManifest.xml:8:13-122
+15            android:theme="@style/PlayerTheme" />
+15-->/home/naren/Desktop/RocketChat/Rocket.Chat.Android-develop/player/src/main/AndroidManifest.xml:9:13-47
+16    </application>
+17
+18</manifest>
